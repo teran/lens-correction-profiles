@@ -71,10 +71,10 @@
                         <stCamera:FocalLengthY>1.549173</stCamera:FocalLengthY>
                         <stCamera:ImageXCenter>0.500000</stCamera:ImageXCenter>
                         <stCamera:ImageYCenter>0.500000</stCamera:ImageYCenter>
-                        <stCamera:VignetteModelParam1>-8.987902</stCamera:VignetteModelParam1>
-                        <stCamera:VignetteModelParam2>55.961987</stCamera:VignetteModelParam2>
-                        <stCamera:VignetteModelParam3>-192.682907</stCamera:VignetteModelParam3>
-                        <stCamera:ResidualMeanError>0.017239</stCamera:ResidualMeanError>
+                        <stCamera:VignetteModelParam1>-9.093209</stCamera:VignetteModelParam1>
+                        <stCamera:VignetteModelParam2>58.162216</stCamera:VignetteModelParam2>
+                        <stCamera:VignetteModelParam3>-204.857300</stCamera:VignetteModelParam3>
+                        <stCamera:ResidualMeanError>0.017382</stCamera:ResidualMeanError>
                      </stCamera:VignetteModel>
                   </stCamera:PerspectiveModel>
                </rdf:li>
